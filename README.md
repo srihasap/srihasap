@@ -1,6 +1,6 @@
 ## Hello!
-## College student at Georgia Tech
-## Computer Science 
+## Current college student at Georgia Tech
+## Studying Computer Science & Business!
 
 <!--
 **srihasap/srihasap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
