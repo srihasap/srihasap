@@ -1,5 +1,5 @@
 ## Hello there!
-## Current college student at Georgia Tech
+## Current junior at Georgia Tech
 ## Studying Computer Science
 
 <!--
